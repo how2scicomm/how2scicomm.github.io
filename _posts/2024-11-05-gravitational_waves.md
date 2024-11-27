@@ -34,5 +34,5 @@ Die Vermutung ist entsprechend, dass die Gravitationswellen aus dem Jahr 2022 vo
 
 Es bleibt spannend, ob noch weitere solcher „unmöglichen“ Messungen gemacht werden und ob die Existenz von besonders massereichen Binärsystemen in der unmittelbaren Umgebung von AGN in Naher Zukunft nachgewiesen werden kann. 
 
-[1] <a href="https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.116.061102">Observation of Gravitational Waves from a Binary Black Hole Merger</a></p>
+[1] <a href="https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.116.061102">Observation of Gravitational Waves from a Binary Black Hole Merger</a>
 
