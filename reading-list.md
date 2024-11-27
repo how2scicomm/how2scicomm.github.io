@@ -1,22 +1,18 @@
 ---
-title: Reading List
-subtitle: a list of books I read
+title: Bücherliste
+subtitle: Meine absoluten Buchempfehlungen
 layout: "page"
 icon: fa-book
 order: 3
 ---
 
-I love books! Here are some I'm reading now:
-
-1. Robert Burton: *The Anatomy of Melancholy*
-2. Robert Musil: *The Man Without Qualities*
-3. Kazuo Ishiguro: *The Unconsoled*
-4. Malcolm Lowry: *Under the Volcano*
-5. Virginia Woolf: *The Waves*
-6. James Joyce: *Finnegans Wake*
-7. Thomas Wolfe: *Look Homeward, Angel*
-8. William Thackeray: *Pendennis*
-9. Karl Marx: *Capital*
-10. James Woodforde: *The Diary of A Country Parson*
-
-source: [The Guardian](https://www.theguardian.com/books/booksblog/2011/jan/04/best-boring-books)
+1. Hervé Le Tellier: *Die Anomalie*
+2. Daniel Kehlmann: *F*
+3. Mariana Leky: *Die Herrenausstatterin*
+4. Benedict Wells: *Beck's letzter Sommer*
+5. Mikael Niemi: *Populärmusik aus Vittula*
+6. Alina Bronsky: *Die schärfsten Gerichte der tatarischen Küche*
+7. Mariana Leky: *Was man von hier aus sehen kann*
+8. Sally Rooney: *Normal People*
+9. Charles Bukowski: *Der Mann mit der Ledertasche*
+10. Patrick Rothfuss: *Die Königsmörder Chroniken*
