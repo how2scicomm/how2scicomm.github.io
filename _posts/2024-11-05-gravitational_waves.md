@@ -22,7 +22,8 @@ Während unsere Sonne nach ihrem Tod zu einem Weißen Zwerg, einem glühenden, d
 
 2) Binäre Schwarze Lochsysteme entstehen aus Doppelsternsystemen
 Die Ausgangssituation war, dass wir Gravitationswellen messen, wenn zwei Schwarze Löcher umeinander kreisen und schließlich mit zunehmender Geschwindigkeit ineinander stürzen. Aber wo entstehen solche Binären Schwarzen Löcher? 
-In unserem Weltraum kennen wir dafür prädestinierte Kandidaten: Doppelsternsysteme. Diese kommen in Mengen vor. Sind diese beiden Sterne massereich genug, ob bei ihrem Tod Schwarze Löcher zu hinterlassen, so erhalten wir schon zwei umeinander kreisende Schwarze Löcher. 
+In unserem Weltraum kennen wir dafür prädestinierte Kandidaten: Doppelsternsysteme. Diese kommen in Mengen vor. Sind diese beiden Sterne massereich genug, ob bei ihrem Tod Schwarze Löcher zu hinterlassen, so erhalten wir schon zwei umeinander kreisende Schwarze Löcher.
+
 3) Schwarze Löcher aus Supernova-Explosionen haben eine obere Massengrenze. Sind die Überreste eines sterbenden Sternes sehr massereich, mehr als das 50-fache der Sonnenmasse, dann ist die Explosion so gewaltig, dass die gesamte Materie in den Weltraum geschleudert wird und im Zentrum keine Materie mehr übrig bleibt, also auch kein Schwarzes Loch mehr entsteht. Es gibt also eine Obergrenze für die Größe solcher Schwarzen Löcher, die durch Supernovaexplosionen entstehen: mehr als die 50-fache Sonnenmasse. 
 
 Kombiniert man diese Annahmen, so ist es unmöglich, dass binäre Systeme zweier Schwarzer Löcher mit Massen von mehr als dem 50-fachen der Sonnenmasse existieren. Doch genau das wurde gemessen: Bei der Messung im Jahr 2019 [2] war das Signal eindeutig, die Schwarzen Löcher, die damals ineinander stürzten, hatten die 68-fache und die 85-fache Sonnenmasse. 
@@ -35,5 +36,6 @@ Die Vermutung ist entsprechend, dass die Gravitationswellen aus dem Jahr 2019 vo
 Es bleibt spannend, ob noch weitere solcher „unmöglichen“ Messungen gemacht werden und ob die Existenz von besonders massereichen Binärsystemen in der unmittelbaren Umgebung von AGN in Naher Zukunft nachgewiesen werden kann. 
 
 [1] <a href="https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.116.061102">Observation of Gravitational Waves from a Binary Black Hole Merger</a>
+
 [2] <a href="https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.116.061102">GW190521: A Binary Black Hole Merger with a Total Mass of 150 M⊙</a>
 
