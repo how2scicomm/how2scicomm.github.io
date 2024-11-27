@@ -39,5 +39,5 @@ Es bleibt spannend, ob noch weitere solcher „unmöglichen“ Messungen gemacht
 
 [1] <a href="https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.116.061102">Observation of Gravitational Waves from a Binary Black Hole Merger</a>
 
-[2] <a href="https://physics.aps.org/featured-article-pdf/10.1103/PhysRevLett.116.061102">GW190521: A Binary Black Hole Merger with a Total Mass of 150 M<sub>&#9737;</sub></a>
+[2] <a href="https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.125.101102">GW190521: A Binary Black Hole Merger with a Total Mass of 150 M<sub>&#9737;</sub></a>
 
