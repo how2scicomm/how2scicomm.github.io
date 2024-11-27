@@ -13,6 +13,7 @@ Zurück zum Vortrag. Im September 2015 wurden nun zum ersten Mal Gravitationswel
 
 Zwei sehr kompakte Objekte, wie eben zwei umeinander kreisende schwarze Löcher, die gerade miteinander verschmelzen wollen, sind ideale Kandidaten, denn kurz bevor sie ineinander stürzen, gewinnen sie in ihrem Tanz umeinander gewaltig an Geschwindigkeit. Das Signal wird stärker und stärker,  bis es genau in dem Moment abrupt abfällt, in dem sie ineinander stürzen. 
 <span class="image right"><img src="{{ 'assets/images/LIGO_measurement_of_gravitational_waves.pdf' | relative_url }}" alt="" /></span>
+<iframe src="{{ 'assets/images/LIGO_measurement_of_gravitational_waves.pdf' | relative_url }}" width="100%" height="500px"></iframe>
 In der Veröffentlichung damals [1] sind zwei solcher Signale zu sehen. Dass es zwei sind, liegt daran, dass zwei verschiedene Messstationen aufzeichnen, um auszuschließen, dass es sich bei der Messung um eine lokale Störung handelt – ein Erdbeben, ein Traktor in der Nähe oder die Boombox im Elektronikraum.  
 Später konnte die Kollaboration auch noch andere Phänomene messen: die Verschmelzung zweier Neutronensterne oder die Verschmelzung eines Neutronensterns mit einem Schwarzen Loch. 
 
